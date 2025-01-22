@@ -1,4 +1,4 @@
-# Reevo Sheet | Modern touch-friendly modal built with pure js
+# Reevo Sheet | Modern touch-friendly sheet-modal built with pure JavaScript
 
 <img alt="Reevo Sheet Modal - Modern bottom sheet modal component" src="./media/img.png" />
 
@@ -14,7 +14,7 @@
 </div>
 
 <p style="text-align: center; display: flex; justify-content: center;">
-  <strong>Real Reevo, Real Story!</strong>
+  <strong>Real Story, Real Reevo!</strong>
 </p>
 
 ## 🚀 Features
